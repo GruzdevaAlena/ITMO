@@ -1,0 +1,15 @@
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\bin\Debug\net6.0\CreateAccount.exe
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\bin\Debug\net6.0\CreateAccount.deps.json
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\bin\Debug\net6.0\CreateAccount.runtimeconfig.json
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\bin\Debug\net6.0\CreateAccount.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\bin\Debug\net6.0\CreateAccount.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\CreateAccount.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\CreateAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\CreateAccount.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\CreateAccount.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\CreateAccount.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\CreateAccount.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\refint\CreateAccount.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\CreateAccount.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\CreateAccount.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\CreateAccount\obj\Debug\net6.0\ref\CreateAccount.dll

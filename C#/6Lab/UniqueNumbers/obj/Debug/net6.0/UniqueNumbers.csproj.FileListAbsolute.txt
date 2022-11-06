@@ -1,0 +1,15 @@
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\bin\Debug\net6.0\UniqueNumbers.exe
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\bin\Debug\net6.0\UniqueNumbers.deps.json
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\bin\Debug\net6.0\UniqueNumbers.runtimeconfig.json
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\bin\Debug\net6.0\UniqueNumbers.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\bin\Debug\net6.0\UniqueNumbers.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\UniqueNumbers.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\UniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\UniqueNumbers.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\UniqueNumbers.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\UniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\UniqueNumbers.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\refint\UniqueNumbers.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\UniqueNumbers.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\UniqueNumbers.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\UniqueNumbers\obj\Debug\net6.0\ref\UniqueNumbers.dll

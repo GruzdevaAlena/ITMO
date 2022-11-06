@@ -1,0 +1,15 @@
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\bin\Debug\net6.0\MoreMethods.exe
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\bin\Debug\net6.0\MoreMethods.deps.json
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\bin\Debug\net6.0\MoreMethods.runtimeconfig.json
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\bin\Debug\net6.0\MoreMethods.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\bin\Debug\net6.0\MoreMethods.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\MoreMethods.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\MoreMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\MoreMethods.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\MoreMethods.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\MoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\MoreMethods.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\refint\MoreMethods.dll
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\MoreMethods.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\MoreMethods.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\ITMO\C#\6Lab\MoreMethods\obj\Debug\net6.0\ref\MoreMethods.dll
