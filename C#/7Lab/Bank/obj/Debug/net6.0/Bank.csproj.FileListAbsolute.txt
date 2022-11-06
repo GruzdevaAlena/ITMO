@@ -1,0 +1,44 @@
+C:\Users\Владислав\source\repos\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\source\repos\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Владислав\source\repos\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\Владислав\source\repos\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\Bank\bin\Debug\net6.0\Bank.exe
+C:\Users\Владислав\source\repos\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Users\Владислав\source\repos\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Users\Владислав\source\repos\Bank\bin\Debug\net6.0\Bank.dll
+C:\Users\Владислав\source\repos\Bank\bin\Debug\net6.0\ref\Bank.dll
+C:\Users\Владислав\source\repos\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Users\Владислав\source\repos\Bank\obj\Debug\net6.0\Bank.dll
+C:\Users\Владислав\source\repos\Bank\obj\Debug\net6.0\ref\Bank.dll
+C:\Users\Владислав\source\repos\Bank\obj\Debug\net6.0\Bank.pdb
+C:\Users\Владислав\source\repos\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\bin\Debug\net6.0\Bank.exe
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\bin\Debug\net6.0\Bank.dll
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\Bank.dll
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\Bank.pdb
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Lab\7\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\bin\Debug\net6.0\Bank.exe
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\bin\Debug\net6.0\Bank.dll
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\Bank.dll
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\Bank.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\ITMO\C#\7Lab\Bank\obj\Debug\net6.0\ref\Bank.dll
