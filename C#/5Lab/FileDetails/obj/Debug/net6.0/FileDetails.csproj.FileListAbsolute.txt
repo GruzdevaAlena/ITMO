@@ -1,0 +1,15 @@
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\bin\Debug\net6.0\FileDetails.exe
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\bin\Debug\net6.0\FileDetails.deps.json
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\bin\Debug\net6.0\FileDetails.runtimeconfig.json
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\bin\Debug\net6.0\FileDetails.dll
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\bin\Debug\net6.0\FileDetails.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\FileDetails.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\FileDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\FileDetails.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\FileDetails.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\FileDetails.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\FileDetails.dll
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\refint\FileDetails.dll
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\FileDetails.pdb
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\FileDetails.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\ITMO\C#\5Lab\FileDetails\obj\Debug\net6.0\ref\FileDetails.dll
