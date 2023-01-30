@@ -1,0 +1,15 @@
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe.config
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\bin\Debug\Linq_Student.pdb
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\obj\Debug\Linq_Student.exe
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\obj\Debug\Linq_Student.pdb
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.AssemblyReference.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Программирование Алёна\7. Технологии ADO.NET\07. Работа с XML в объектах DataSet\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe.config
+C:\Users\Nitro\OneDrive\Рабочий стол\Программирование Алёна\7. Технологии ADO.NET\07. Работа с XML в объектах DataSet\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe
+C:\Users\Nitro\OneDrive\Рабочий стол\Программирование Алёна\7. Технологии ADO.NET\07. Работа с XML в объектах DataSet\Linq_Student\Linq_Student\bin\Debug\Linq_Student.pdb
+C:\Users\Nitro\OneDrive\Рабочий стол\Программирование Алёна\7. Технологии ADO.NET\07. Работа с XML в объектах DataSet\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.AssemblyReference.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Программирование Алёна\7. Технологии ADO.NET\07. Работа с XML в объектах DataSet\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Программирование Алёна\7. Технологии ADO.NET\07. Работа с XML в объектах DataSet\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\OneDrive\Рабочий стол\Программирование Алёна\7. Технологии ADO.NET\07. Работа с XML в объектах DataSet\Linq_Student\Linq_Student\obj\Debug\Linq_Student.exe
+C:\Users\Nitro\OneDrive\Рабочий стол\Программирование Алёна\7. Технологии ADO.NET\07. Работа с XML в объектах DataSet\Linq_Student\Linq_Student\obj\Debug\Linq_Student.pdb
