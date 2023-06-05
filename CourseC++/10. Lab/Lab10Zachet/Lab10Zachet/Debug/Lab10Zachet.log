@@ -1,0 +1,6 @@
+﻿  Dot.cpp
+  Lab10Zachet.cpp
+  Triangle.cpp
+  Создание кода...
+C:\Users\Nitro\source\repos\ITMO\C++\Lab10\Lab10\Lab10Zachet\Lab10Zachet\Triangle.cpp(21): warning C4172: возвращение адреса локальной или временной переменной : ar
+  Lab10Zachet.vcxproj -> C:\Users\Nitro\source\repos\ITMO\C++\Lab10\Lab10\Lab10Zachet\Debug\Lab10Zachet.exe
