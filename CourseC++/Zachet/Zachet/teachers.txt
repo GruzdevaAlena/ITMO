@@ -1,0 +1,16 @@
+Full name: Ylko Dmitriy Artemovich
+Age:35
+Phone: 844444444444
+Groups: 658
+Work time: 1day : 11:20-16:30 | 4day : 8:00-16:30 | 
+Items: Rus lang
+
+
+Full name: Ivanova Anastasiya Aleksndrovna
+Age:25
+Phone: 8777777777
+Groups: 123
+Work time: 2day : 11:20-16:30 | 3day : 8:00-16:30 | 
+Items: Math
+
+

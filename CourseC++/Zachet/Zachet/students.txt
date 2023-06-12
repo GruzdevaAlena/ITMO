@@ -1,0 +1,33 @@
+Full name: Medvedeva Sveta Vladislalovna
+Age:20
+Phone: 86666666666
+Group: 658
+Points: Rus lang: 5, 2, 1, 3, 4, 5
+
+
+
+Full name: Ivanov Ivan Ivanovich
+Age:21
+Phone: 88888888888
+Group: 123
+Points: Math: 5, 4
+Rus lang: 5
+
+
+
+Full name: Olegov Oleg Olegovich
+Age:25
+Phone: 89999999999
+Group: 658
+Points: Math: 5, 2, 1, 3, 4, 5
+
+
+
+Full name: Alexandrova Anastasiya Igorevna
+Age:19
+Phone: 87777777777
+Group: 658
+Points: Rus lang: 5
+
+
+
